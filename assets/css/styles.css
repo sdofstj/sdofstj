@@ -599,6 +599,7 @@ footer.site-footer small {
   border-radius: 12px;
   overflow: hidden;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  aspect-ratio: 16 / 9;
 }
 
 .hero-image img {
